@@ -1,4 +1,3 @@
-# Intelligent-Data-science-Automation
 # ⚗️ AN INTELLIGENT AUTOMATION FRAMEWORK FOR DATA SCEIENCE PROCESS 
 
 A visual, AI-powered data science pipeline studio built with Streamlit and OpenRouter.
@@ -50,4 +49,3 @@ All agents share the dataset context (shape, dtypes, sample rows, missing value 
 ## Pipeline Reproducibility
 
 Every action — loading data, cleaning, visualizing, training — is recorded as a timestamped pipeline step. Export the full pipeline as JSON to reproduce or share your workflow.
-
